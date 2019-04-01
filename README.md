@@ -1,4 +1,4 @@
 # Sprouts-Product-Scraper
 Scrapes products and info from Sprouts website
 
-If you run this IPython Notebook you will get the products from a Sprouts store. Specify which zipcode to scrape from
+Run the IPython Notebook Sprouts_scraper-BS.ipynb, to get the product invetory from a Sprouts store. Enter the zip code from which to scrape from before running the notebook
